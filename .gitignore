@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.claude/
+.venv/
+venv/
+env/
+.env
+
+dataset/audio/
+dataset/metadata.csv
+outputs/audio/
+outputs/waveforms/
+model/checkpoints/
